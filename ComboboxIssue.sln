@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxIssue", "ComboboxIssue\ComboboxIssue\ComboboxIssue.csproj", "{7242F695-28AD-4DC9-B561-E19C1381751A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxIssue.Android", "ComboboxIssue\ComboboxIssue.Android\ComboboxIssue.Android.csproj", "{C4683F5A-6297-4296-ABEA-E4DE4B49F0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxIssue.Desktop", "ComboboxIssue\ComboboxIssue.Desktop\ComboboxIssue.Desktop.csproj", "{443005D1-9D19-4DDB-9251-D0E5710D0343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxIssue.iOS", "ComboboxIssue\ComboboxIssue.iOS\ComboboxIssue.iOS.csproj", "{D14B2B63-FF6A-4686-91F1-F4F0792B26B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxIssue.Browser", "ComboboxIssue\ComboboxIssue.Browser\ComboboxIssue.Browser.csproj", "{0242F4AB-485C-41A1-8A75-6794DB0AF9B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7242F695-28AD-4DC9-B561-E19C1381751A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7242F695-28AD-4DC9-B561-E19C1381751A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7242F695-28AD-4DC9-B561-E19C1381751A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7242F695-28AD-4DC9-B561-E19C1381751A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4683F5A-6297-4296-ABEA-E4DE4B49F0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4683F5A-6297-4296-ABEA-E4DE4B49F0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4683F5A-6297-4296-ABEA-E4DE4B49F0FF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C4683F5A-6297-4296-ABEA-E4DE4B49F0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4683F5A-6297-4296-ABEA-E4DE4B49F0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4683F5A-6297-4296-ABEA-E4DE4B49F0FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{443005D1-9D19-4DDB-9251-D0E5710D0343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443005D1-9D19-4DDB-9251-D0E5710D0343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443005D1-9D19-4DDB-9251-D0E5710D0343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443005D1-9D19-4DDB-9251-D0E5710D0343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14B2B63-FF6A-4686-91F1-F4F0792B26B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14B2B63-FF6A-4686-91F1-F4F0792B26B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14B2B63-FF6A-4686-91F1-F4F0792B26B3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D14B2B63-FF6A-4686-91F1-F4F0792B26B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14B2B63-FF6A-4686-91F1-F4F0792B26B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14B2B63-FF6A-4686-91F1-F4F0792B26B3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0242F4AB-485C-41A1-8A75-6794DB0AF9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0242F4AB-485C-41A1-8A75-6794DB0AF9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0242F4AB-485C-41A1-8A75-6794DB0AF9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0242F4AB-485C-41A1-8A75-6794DB0AF9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {718613B5-32E7-4116-93A1-A95BAA28BD22}
+	EndGlobalSection
+EndGlobal
